@@ -1,5 +1,5 @@
-UEFA Champions League 2024/25 Fixture Optimization
-Overview
+UEFA Champions League 2024/25 Fixture Optimization:
+
 This project implements an Artificial Intelligence model to optimize the fixture scheduling for the UEFA Champions League 2024/25 season. By leveraging simulated annealing techniques, our solution significantly reduces travel distances for participating teams.
 Key Features
 
